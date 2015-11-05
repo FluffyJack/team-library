@@ -4,7 +4,7 @@
   "description": "Small web app to manage a company/team library",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test/**/*.js"
   },
   "repository": {
     "type": "git",
